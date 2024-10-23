@@ -1,0 +1,26 @@
+[
+    {
+        "login": "login_1",
+        "password": "password_1"
+    },
+    {
+        "login": "login_2",
+        "password": "password_2"
+    },
+    {
+        "login": "login_3",
+        "password": "password_3"
+    },
+    {
+        "login": "123",
+        "password": "123"
+    },
+    {
+        "login": "89236185267",
+        "password": "1234"
+    },
+    {
+        "login": "чвсапвап",
+        "password": "вапвапвапвапвап"
+    }
+]
